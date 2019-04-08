@@ -1,4 +1,4 @@
-# 1 - Introdução
+# 1. Introdução
 - [Site oficial do Git](https://git-scm.com/)
 - [Node e NPM](https//nodejs.org/en/)
 - [Github](https://github.com/)
