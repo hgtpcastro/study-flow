@@ -1,3 +1,8 @@
+# 2. Configurando o NPM e Criando o package.json
+- [Cadastrar no NPM](https://www.npmjs.com/signup)
+- [Documentação completa do NPM](https://docs.npmjs.com/)
+- [Documentação do Config do NPM](https://docs.npmjs.com/misc/config)
+
 # Comandos
 ```
 // iniciando um repositório
