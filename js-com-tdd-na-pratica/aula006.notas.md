@@ -8,7 +8,7 @@
 
 # Comandos
 
-: # Instalar o ESlint como dependencia do projeto 
-: ```
-: npm install eslint --save-dev
-: ```
+:# Instalar o ESlint como dependencia do projeto 
+:```
+:npm install eslint --save-dev
+:```
