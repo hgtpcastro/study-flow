@@ -5,3 +5,9 @@
 
 # Diversos
 - [Style guides Javascript com ESLint, Prettier e EditorConfig | Diego Fernandes](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
+
+# Comandos
+
+```
+npm install eslint --save-dev
+```
