@@ -5,10 +5,29 @@
 
 # Diversos
 - [Style guides Javascript com ESLint, Prettier e EditorConfig | Diego Fernandes](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
+- [ESLint VSCode RocketSeat](https://github.com/Rocketseat/youtube-style-guide-javascript)
 
 # Comandos
 
-:# Instalar o ESlint como dependencia do projeto 
-:```
-:npm install eslint --save-dev
-:```
+# Instalar o ESlint como dependencia do projeto (global, vai obrigar a todos instalar globalmente)
+```
+npm install eslint --save-dev
+```
+# Iniciar o ESLint - cria o arquivo: .eslintrc.json
+```
+./node_modules/.bin/eslint --init
+```
+# Iniciar o ESLint - cria o arquivo: .eslintrc.json (Windows)
+```
+.\node_modules\.bin\eslint --init
+```
+
+# Com npx (vai instalr o eslint temporariamente, e executalo)
+```
+npx eslint
+```
+
+# Rodar o ESLint (Windows)
+```
+.\node_modules\.bin\eslint src\*.js
+```
