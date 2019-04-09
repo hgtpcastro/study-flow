@@ -10,3 +10,8 @@
   },
 ...
 ```
+
+# rodar o script
+```
+npm run [nome-script]
+```
