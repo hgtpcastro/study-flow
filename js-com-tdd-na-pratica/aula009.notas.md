@@ -7,5 +7,6 @@
 "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },...
+  },
+...
 ```
