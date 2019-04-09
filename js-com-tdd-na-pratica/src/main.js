@@ -7,5 +7,3 @@ function sum() {
 }
 
 sum();
-
-console.log(a);
